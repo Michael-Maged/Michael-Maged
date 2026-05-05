@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am Michael Maged Fawzy, a senior Computer Engineering student at Ain Shams University with a strong passion for building software solutions across web, mobile, and backend systems. I have hands-on experience in React supported by practical training at the Information Technology Institute (ITI) , Java, Python, SQL, and C++.<br>I enjoy developing impactful applications, exploring data engineering tools, and solving real-world problems through clean, efficient code. I am continuously expanding my technical knowledge and always excited to learn, collaborate, and contribute to meaningful projects.
+I am a senior Computer Engineering student at Ain Shams University with a strong interest in both Software Engineering and Data Science. I have hands-on experience building web and backend applications alongside working with Python, machine learning libraries, and data analysis tools.
+I enjoy developing scalable software systems as much as building data-driven and AI-powered solutions, and I am continuously expanding my skills across both domains to solve real-world problems efficiently.
 
 
 ## 🌐 Socials:
